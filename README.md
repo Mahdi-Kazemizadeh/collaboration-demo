@@ -15,3 +15,5 @@ This project is used to practice Git and GitHub collaboration workflows.
 5. Wait for review before merging.
 
 Each pull request should be reviewed before it is merged into the main branch.
+
+This repository also demonstrates a simple CI workflow using GitHub Actions.
